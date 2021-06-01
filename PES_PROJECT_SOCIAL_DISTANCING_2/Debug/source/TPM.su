@@ -1,0 +1,7 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+TPM.c:16:6:tpm1_init	8	static
+TPM.c:42:6:TPM1_IRQHandler	16	static
+TPM.c:71:6:tpm2_init	8	static
+TPM.c:98:6:TPM2_IRQHandler	16	static

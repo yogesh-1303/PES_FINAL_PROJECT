@@ -1,0 +1,7 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+TPM_sensors.c:20:6:tpm1_init	8	static
+TPM_sensors.c:49:6:TPM1_IRQHandler	8	static
+TPM_sensors.c:76:6:tpm2_init	8	static
+TPM_sensors.c:107:6:TPM2_IRQHandler	8	static
